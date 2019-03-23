@@ -1,0 +1,3 @@
+human_curl==0.2.0
+requests==2.18.4
+JPype1==0.6.3
